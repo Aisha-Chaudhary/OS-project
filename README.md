@@ -7,3 +7,9 @@ The objective of this project is to design and implement an efficient deadlock d
 - Handle multiple instances of resources and processes, making it scalable and versatile.
 - Provide a robust and reliable solution for real-time systems, where deadlock detection and recovery are critical.
 - Evaluate the performance and effectiveness of the Banker's Algorithm in a multi-instance setting.
+
+Group Members:
+- Ayesha Chaudhary: Roll no.29
+- Ayesha Chaudhary: Roll no.35
+
+  
