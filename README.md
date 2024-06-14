@@ -1,4 +1,6 @@
+        BSIT 4th(Reg)
 DEADLOCK DETECTION USING BANKER'S ALGORITHM FOR MULTIPLE INSTANCES
+
 Objective:
 
 The objective of this project is to design and implement an efficient deadlock detection system using the Banker's Algorithm for multiple instances. The system aims to:
